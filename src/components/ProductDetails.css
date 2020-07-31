@@ -1,0 +1,47 @@
+h1 {
+  font-size: 25px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-weight: lighter;
+}
+
+.detailscontainer {
+  background-color: #d4ebf2;
+  height: 200vh;
+}
+
+h4 {
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+.rightdetails {
+  margin-left: 150px;
+  color: black;
+}
+.carddetails {
+  transition: 0.3s;
+  width: 20%;
+  border: 2px solid black;
+  float: left;
+  margin-top: 30px;
+}
+h3 {
+  font-size: 30px;
+  color: white;
+}
+h5 {
+  font-size: 30px;
+
+  margin: 5px;
+}
+
+.buttondetails {
+  background-color: #4eee94;
+  width: 100%;
+  height: 30px;
+  border: none;
+  margin: 5px;
+}

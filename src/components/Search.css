@@ -1,0 +1,107 @@
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 15vh;
+  font-size: 50px;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.title {
+  background-color: #003153;
+  color: white;
+  font-size: 32px;
+  margin-left: 13vh;
+
+  width: 450px;
+}
+
+.button-search {
+  background-color: #003153;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+h2 {
+  padding-top: 30vh;
+  padding-left: 30vh;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 #ffea0;
+  transition: 0.3s;
+  width: 23%;
+  background-color: #00003f;
+  border: 2px solid white;
+  float: left;
+  margin-left: 8px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 #ffffff;
+}
+
+.container {
+  padding: 2px 12px;
+}
+
+.dropbtn {
+  background-color: #00003f;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #00003f;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #00003f;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #00003f;
+}
+
+@media (max-width: 720px) {
+  .card {
+    margin-left: 2px;
+  }
+}

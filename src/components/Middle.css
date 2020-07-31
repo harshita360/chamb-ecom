@@ -1,0 +1,32 @@
+.leftimg {
+  border-radius: 4px;
+  padding: 5px;
+  width: 120px;
+}
+.left {
+  margin-left: 10px;
+  float: left;
+  color: black;
+  width: 50vw;
+  border-right: 1px solid #c0c0c0;
+}
+
+.rightimg {
+  border-radius: 4px;
+  padding: 5px;
+
+  width: 120px;
+}
+.right {
+  margin-right: 10px;
+  margin-left: 50px;
+  padding-left: 20px;
+
+  float: left;
+}
+
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+}

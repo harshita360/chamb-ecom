@@ -1,0 +1,38 @@
+.leftworks {
+  padding-left: 20px;
+  float: left;
+  color: black;
+  width: 30vw;
+}
+.button_works {
+  background-color: #00003f;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.firstimg {
+  padding-left: 250px;
+}
+
+.big {
+  font-size: 150px;
+  color: #00fa9a;
+  padding-left: 450px;
+  font-weight: 900;
+}
+.stepone {
+  padding-left: 600px;
+}
+.bigblue {
+  font-size: 150px;
+  color: #00003f;
+  padding-left: 450px;
+  font-weight: 900;
+}

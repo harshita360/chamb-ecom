@@ -1,0 +1,42 @@
+.pricingbody {
+  height: 150vh;
+  background-color: #151b54;
+}
+.sidehead {
+  text-align: center;
+
+  font-size: 22px;
+}
+
+.card-pricing {
+  box-shadow: 0 4px 8px 0 #ffea0;
+  transition: 0.3s;
+  width: 23%;
+  background-color: #00003f;
+  border: 1px solid white;
+  float: left;
+  margin-left: 8px;
+  color: white;
+  height: 70vh;
+  position: relative;
+}
+
+.button_pricing {
+  background-color: #00b2ee;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  bottom: 10px;
+  width: 50%;
+  position: absolute;
+  bottom: 0;
+  align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
